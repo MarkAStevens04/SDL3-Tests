@@ -5,6 +5,7 @@
 View my jobs: `sbatch --me`
 View when my jobs are expected to run `sbatch --me --start`
 See my utilization `sshare`
+View queue `squeue`
 
 Run a job:
 ```
