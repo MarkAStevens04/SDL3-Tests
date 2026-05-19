@@ -1,0 +1,6 @@
+{
+  "python.terminal.activateEnvironment": true,
+"python.defaultInterpreterPath": "/Users/mark/anaconda3/SDL3-Tests/bin/python",
+"python-envs.defaultEnvManager": "ms-python.python:conda",
+"python-envs.defaultPackageManager": "ms-python.python:conda"
+}
