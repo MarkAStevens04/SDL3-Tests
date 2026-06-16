@@ -32,3 +32,7 @@ Sync with offline:
 conda activate rgfn
 wandb sync /scratch/markymoo/wandb/wandb/offline-run-*
 ```
+
+## Chimera-X
+
+- Find center of non-standard residue: `measure center :85C`
